@@ -1,6 +1,6 @@
 # polish-wikipedia-graph-dataset
 
-The repository contains dataset of polish Wikipedia pages assigned to specific science fields and links between these articles. Dataset can be use as simple classification task in NLP, especially as benchmark for graph based methods.
+The repository contains dataset of over 75 000 polish Wikipedia pages assigned to specific science fields and links between these pages. Dataset can be use as simple classification task in NLP, especially as benchmark for graph based methods.
 
 ### wiki_pages.csv
 Articles information file. Columns:
